@@ -1,4 +1,4 @@
-%% Circular Trajectory Tracking using MPC 
+%% YALMIP : Circular Trajectory Tracking using MPC 
 clc;
 clear;
 close all;
